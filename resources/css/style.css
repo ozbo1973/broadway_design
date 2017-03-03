@@ -25,15 +25,26 @@ header h1 {
 	color: white;
 }
 
-.nav {
+.nav, .nav a {
 	font-size: 18px;
 	color: white;
 }
 
 .nav li {
 	list-style-type: none;
+	margin: 0px 0px 15px 0px;	
 }
 
-.nav a {
-	color: white;
+.process h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.process h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+.process p {
+	font-size: 14px;
 }

@@ -48,3 +48,10 @@ header h1 {
 .process p {
 	font-size: 14px;
 }
+
+.nyc-header {
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+	background-image: url(../img/flatiron-building.jpg)
+}

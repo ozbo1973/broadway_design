@@ -1,2 +1,21 @@
 /* CSS Document */
+body {
+	text-align: center;
+	font-family: Helvetica;
+}
+
+header {
+	margin: 0px auto;
+}
+
+section {
+	
+}
+
+footer {
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+}
+
 
